@@ -1,7 +1,7 @@
 from wit import Wit 
 from gnewsclient import gnewsclient
 
-access_token = "KINUQ63AXDWKUTFWTS2QH4G3W5GR2YDE"
+access_token = "ENTER YOU WIT.AI ACCESS TOKEN"
 
 client = Wit(access_token = access_token)
 
